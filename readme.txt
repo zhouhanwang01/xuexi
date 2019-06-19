@@ -1,3 +1,3 @@
 Git is a version control system.
-Git is free software
+Git is free software,git is tai nan xue le 
 git is distributed version control system.
