@@ -4,3 +4,4 @@ git is distributed version control system.
 git has a mutable index called stage.
 git tracks changes
 Creating is a new branch is qucik and simple finally
+最后我又添加了一句话 thank you verymuch
